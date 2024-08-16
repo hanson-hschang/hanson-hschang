@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Heng-Sheng (Hanson) Chang</h1>
+<h3 align="center">Make Sci-Fi into Science Facts</h3>
 
 <!--
 **hanson-hschang/hanson-hschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
