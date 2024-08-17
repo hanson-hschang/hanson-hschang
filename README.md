@@ -3,7 +3,7 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hanson-hschang&layout=compact&langs_count=8&theme=dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-hschang&count_private=true&theme=dark&layout=compact" />
 </p>
 
 <p align="center">
