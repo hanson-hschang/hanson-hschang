@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heng-Sheng (Hanson) Chang</h1>
-<h3 align="center">Make Sci-Fi into Science Facts</h3>
+<h1 align="center">Make Sci-Fi into Science Facts</h1>
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
@@ -10,6 +9,7 @@
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/hanson-hschang/count.svg" />
 </p>
