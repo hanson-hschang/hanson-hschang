@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=500&color=2dba4e&background=52387400&center=true&vCenter=true&random=false&width=600&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&pause=100&color=2dba4e&background=52387400&center=true&vCenter=true&random=false&width=600&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
 </h1>
 
 <p align="center">
