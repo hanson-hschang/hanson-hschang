@@ -1,4 +1,6 @@
-<h1 align="center">Make Sci-Fi into Science Facts</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=500&color=2dba4e&background=52387400&center=true&vCenter=true&random=false&width=600&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
+</h1>
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
