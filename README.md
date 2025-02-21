@@ -16,6 +16,11 @@
   <img src="https://profile-counter.glitch.me/hanson-hschang/count.svg" />
 </p>
 
+## Open Source Contribution
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/pytorch/pytorch)
+[![BSR](https://img.shields.io/badge/Blender%20Soft%20Rod-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/GazzolaLab/Blender-Soft-Rod)
+
 <!--
 **hanson-hschang/hanson-hschang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
