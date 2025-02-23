@@ -1,9 +1,9 @@
-name: contribution
+name: contribution snake
 
 on:
-  # run automatically every 12 hours
+  # run automatically once a day
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -12,16 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
 
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create snake directory
-        run: mkdir snake
-
-      - name: generate github contribution grid snake svg files
+      - name: Generate github contribution grid snake svg files
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
