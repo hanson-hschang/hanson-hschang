@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none !important;
+  }
+</style>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
 
