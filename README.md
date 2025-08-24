@@ -1,33 +1,27 @@
-<style>
-  a {
-    text-decoration: none !important;
-  }
-</style>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file">
+<a href="https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file" style="text-decoration: none;">
   <img alt="profile-counter" src="https://komarev.com/ghpvc/?username=hanson-hschang&style=for-the-badge&color=lightgrey">
 </a>
 
-<a href="https://hanson-hschang.github.io/">
+<a href="https://hanson-hschang.github.io/" style="text-decoration: none;">
   <img alt="personal-website" src="https://img.shields.io/badge/Home%20Page-%230563bb.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAgMjB2LTZoNHY2aDV2LThoM0wxMiAzIDIgMTJoM3Y4eiIvPjwvc3ZnPg==&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/hanson-hschang/">
+<a href="https://www.linkedin.com/in/hanson-hschang/" style="text-decoration: none;">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NXMuOTItMi4wNjQgMi4wNjMtMi4wNjRjMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2NHMtLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&logoColor=white">
 </a>
 
-<a href="https://bsky.app/profile/hanson-hschang.github.io">
+<a href="https://bsky.app/profile/hanson-hschang.github.io" style="text-decoration: none;">
   <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white">
 </a>
 
-<a href="https://x.com/hanson_hschang">
+<a href="https://x.com/hanson_hschang" style="text-decoration: none;">
   <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/hanson.hschang/">
+<a href="https://www.instagram.com/hanson.hschang/" style="text-decoration: none;">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
