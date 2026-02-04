@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Fact" />
+<img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Fact" alt="Typing SVG of the quote: Making Sci-Fi into Science Fact" />
 
 <div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file"><img alt="profile-counter" src="https://komarev.com/ghpvc/?username=hanson-hschang&style=for-the-badge&color=lightgrey&abbreviated=true"></a>
