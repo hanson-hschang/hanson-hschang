@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Facts" />
+<img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=40&pause=100&color=f5f5f5&background=52387400&repeat=false&center=true&vCenter=true&random=false&width=1000&height=100&lines=Make+Sci-Fi+into+Science+Facts" alt="Typing SVG of the quote: Making Sci-Fi into Science Fact" />
 
 <div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file"><img alt="profile-counter" src="https://komarev.com/ghpvc/?username=hanson-hschang&style=for-the-badge&color=lightgrey&abbreviated=true"></a>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-hschang&count_private=true&theme=dark&layout=compact" />
+  <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-hschang&count_private=true&theme=dark&layout=compact" /> -->
 </p>
 
 <p align="center">
