@@ -33,7 +33,7 @@
 ## Open Source Contribution
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/pytorch/pytorch)
-[![BSR](https://img.shields.io/badge/Blender%20Soft%20Rod-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/GazzolaLab/Blender-Soft-Rod)
+[![BSR](https://img.shields.io/badge/Blender%20Soft%20Rod-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/GazzolaLab/SPARC)
 [![ROS2-vicon](https://img.shields.io/badge/ros2--vicon-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/hanson-hschang/ros2-vicon)
 
 <!--
