@@ -14,7 +14,8 @@
 </h1>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
+  <!-- <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanson-hschang&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /> -->
+  <img height="160px" src="https://github-stats-extended.vercel.app/api?username=hanson-hschang&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&custom_title=Hanson%27s+Stats&count_private=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
   <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-hschang&count_private=true&theme=dark&layout=compact" /> -->
 </p>
 
